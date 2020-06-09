@@ -21,11 +21,11 @@ The 2pSSHSweepU program runs over a range of U values, and its main result is a 
 
 The 2pSSHSweepN program runs changing N. Its main result is a plot of the Participation Ratio of some states as a function of N. This gives the scaling of PR which gives a lot of information of the states. In this program Numba has been used but it is pretty slow because it couldn't be parallelised as efficiently as 2pSSHSweepU.
 
-The 2pBHMAnalyticalResults program finds a solution numerically to the bethe equations for the Bose Hubbard model. Its main result is the dispersion relation E(K) plot, it can also obtain plots E vs Index to compare to the ones that the other codes obtain.
+The 2pBHMAnalyticalResults program finds a solution numerically to the bethe equations for the Bose Hubbard model. Its main result is the dispersion relation E(K) plot, it can also obtain plots E vs Index to compare to the ones that the other codes obtain. It also can compare the energies for a trimer obtained in this code, a trimer for PBC obtained from the 2pSSHInteractingBosons code and direct diagonalization from the recurrence relations.
 
 The 2pSSHAnalyticalResults just plot the energy bands obtained for the 2pSSH model in the L infty limit, it also gives 3D plots of the bands.
 
 
 DISCLAIMER:
 
-This codes aren't in any way thought or designed to be super efficient nor pretty. I am not a programmer, I've just taken two undergrad level programming courses for physicists and none of them was on python. So I know there will be a lot of wrong and ugly things on the codes, the thing is that I think they work more or less for the purpose of the undergrad thesis donde here. Also some of the comments may be in spanish, sorry for that.
+This codes aren't in any way thought or designed to be super efficient nor pretty. I am not a programmer, I've just taken two undergrad level programming courses for physicists and none of them was on python. So I know there will be a lot of wrong and ugly things on the codes, the thing is that I think they work more or less for the purpose of the undergrad thesis done here and can be checked for some purposes. Also some of the comments may be in spanish, sorry for that.
