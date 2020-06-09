@@ -14,3 +14,5 @@ The 2pSSHAnalyticalResults just plot the energy bands obtained for the 2pSSH mod
 WHAT TO DO IF GITHUB DOESN'T SHOW JUPYTER FILES:
 Copy your github link of ‘.ipynb’ file and open this link https://nbviewer.jupyter.org on your browser. after that paste that previous link in the box ,which will be shown on the nbviewer website page and press Enter
 Open google colab by using this link https://colab.research.google.com/notebooks/gpu.ipynb in the browser. after that go the ‘File’ option at the ‘top-right’ . click on this and click again on open notebook . After that go to fourth option in the header ‘GITHUB’ and paste the link in the search box and press enter. You will be able to see Your Github ‘.ipynb’ file .
+
+DISCLAIMER:This codes aren't in any way thought or designed to be efficient nor pretty. I am not a programmer, I've just taken two undergrad level programming courses for physicists and none of them was on python. So I know there will be a lot of wrong and ugly things on the codes, the thing is that I think they work more or less for the purpose of the work.
