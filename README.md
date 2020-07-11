@@ -1,5 +1,5 @@
 # 2ParticleTopologicalSSH
-This are the codes used in an Undergraduate Thesis on Two Particle interactions in topological models.
+These are the codes used in an Undergraduate Thesis on Two Particle interactions in topological models.
 All the codes are written in Python, on the Jupyter Notebook, and most of them use Numba as a way to make them faster.
 
 WHAT TO DO IF GITHUB DOESN'T SHOW JUPYTER FILES:
