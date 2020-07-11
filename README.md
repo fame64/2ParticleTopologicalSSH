@@ -25,7 +25,7 @@ The 2pSSHSweepDeltaw program changes the perturbation to the onsite potential. I
 
 The 2pBHMAnalyticalResults program finds a solution numerically to the bethe equations for the Bose Hubbard model. Its main result is the dispersion relation E(K) plot, it can also obtain plots E vs Index to compare to the ones that the other codes obtain. It also can compare the energies for a trimer obtained in this code, a trimer for PBC obtained from the 2pSSHInteractingBosons code and direct diagonalization from the recurrence relations.
 
-The 2pSSHAnalyticalResults just plot the energy bands obtained for the 2pSSH model in the L infty limit, it also gives 3D plots of the bands.
+The 2pSSHAnalyticalResults just plots the energy bands (Scattering and Bulk-Edge) obtained for the 2pSSH model in the L infty limit, it also gives 3D plots of the bands.
 
 
 DISCLAIMER:
